@@ -4,6 +4,8 @@
 ## A
 
 ## B
+### Basic features
+https://github.com/biagolini/TerraformBasic
 
 ## C
 
@@ -38,8 +40,6 @@
 ## R
 
 ## S
-### Strings and Templates
-https://github.com/biagolini/TerraformStringsTemplates
 
 ## T
 
