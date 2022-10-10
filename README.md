@@ -6,6 +6,8 @@
 ## B
 ### Basic features
 https://github.com/biagolini/TerraformBasic
+### Built-in Functions
+https://github.com/biagolini/TerraformBuiltinFunctions
 
 ## C
 
