@@ -50,6 +50,8 @@ https://github.com/biagolini/TerraformModules
 ## U
 
 ## V
+### Validation (of variable inputs)
+https://github.com/biagolini/TerraformValidation
 
 ## W
 
