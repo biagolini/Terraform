@@ -33,6 +33,9 @@ https://github.com/biagolini/TerraformBuiltinFunctions
 ### Modules
 https://github.com/biagolini/TerraformModules
 
+### Maps: Test for presence of nulls in a map
+https://github.com/biagolini/TerraformMapNullPresenceTest
+
 ## N
 
 ## O
