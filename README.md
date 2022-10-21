@@ -28,6 +28,8 @@ https://github.com/biagolini/TerraformBuiltinFunctions
 ## K
 
 ## L
+### Lifecycle
+https://github.com/biagolini/TerraformLifecycle
 
 ## M
 ### Modules
