@@ -59,6 +59,8 @@ https://github.com/biagolini/TerraformMapNullPresenceTest
 https://github.com/biagolini/TerraformValidation
 
 ## W
+### Workspaces
+https://github.com/biagolini/TerraformWorkspace
 
 ## X 
 
