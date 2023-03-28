@@ -39,10 +39,15 @@ https://github.com/biagolini/TerraformModules
 https://github.com/biagolini/TerraformMapNullPresenceTest
 
 ## N
+### Null Resource
+https://github.com/biagolini/TerraformNullResource
+
 
 ## O
 
 ## P
+### Provisioner
+https://github.com/biagolini/TerraformProvisioner
 
 ## Q
 
