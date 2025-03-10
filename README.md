@@ -1,13 +1,28 @@
-# <u>TERRAFORM</u>
-**Autor:** Carlos Biagolini-Jr.
+# Terraform Projects
+
+**Author:** Carlos Biagolini-Jr.
+
+**LinkedIn:** [https://www.linkedin.com/in/biagolini/](https://www.linkedin.com/in/biagolini/)
+
+**Medium:** [https://medium.com/@biagolini](https://medium.com/@biagolini)
+
+[EN]: This repository serves as an index for various Terraform-based projects and code examples. Each linked repository demonstrates different aspects of Terraform usage, including infrastructure provisioning, module structuring, lifecycle management, and built-in functions. The goal is to provide practical examples that can be used as references for learning and development. For more in-depth discussions and technical articles, visit my LinkedIn and Medium profiles.
+
+---
 
 ## A
 
 ## B
-### Basic features
-https://github.com/biagolini/TerraformBasic
+
+### Basic Features
+Examples of fundamental Terraform features and syntax.
+
+[https://github.com/biagolini/TerraformBasic](https://github.com/biagolini/TerraformBasic)
+
 ### Built-in Functions
-https://github.com/biagolini/TerraformBuiltinFunctions
+Demonstrates the use of built-in functions in Terraform.
+
+[https://github.com/biagolini/TerraformBuiltinFunctions](https://github.com/biagolini/TerraformBuiltinFunctions)
 
 ## C
 
@@ -28,26 +43,39 @@ https://github.com/biagolini/TerraformBuiltinFunctions
 ## K
 
 ## L
+
 ### Lifecycle
-https://github.com/biagolini/TerraformLifecycle
+Example of using the lifecycle block to manage resource behavior in Terraform.
+
+[https://github.com/biagolini/TerraformLifecycle](https://github.com/biagolini/TerraformLifecycle)
 
 ## M
-### Modules
-https://github.com/biagolini/TerraformModules
 
-### Maps: Test for presence of nulls in a map
-https://github.com/biagolini/TerraformMapNullPresenceTest
+### Modules
+Demonstrates the use of modules in Terraform to improve reusability and organization.
+
+[https://github.com/biagolini/TerraformModules](https://github.com/biagolini/TerraformModules)
+
+### Maps: Test for Presence of Nulls in a Map
+Terraform script to check for the presence of null values in a map.
+
+[https://github.com/biagolini/TerraformMapNullPresenceTest](https://github.com/biagolini/TerraformMapNullPresenceTest)
 
 ## N
-### Null Resource
-https://github.com/biagolini/TerraformNullResource
 
+### Null Resource
+Example of using null resources in Terraform for executing scripts and commands.
+
+[https://github.com/biagolini/TerraformNullResource](https://github.com/biagolini/TerraformNullResource)
 
 ## O
 
 ## P
+
 ### Provisioner
-https://github.com/biagolini/TerraformProvisioner
+Demonstrates the use of Terraform provisioners to execute local or remote scripts.
+
+[https://github.com/biagolini/TerraformProvisioner](https://github.com/biagolini/TerraformProvisioner)
 
 ## Q
 
@@ -60,15 +88,22 @@ https://github.com/biagolini/TerraformProvisioner
 ## U
 
 ## V
-### Validation (of variable inputs)
-https://github.com/biagolini/TerraformValidation
+
+### Validation (of Variable Inputs)
+Example of validating variable inputs in Terraform.
+
+[https://github.com/biagolini/TerraformValidation](https://github.com/biagolini/TerraformValidation)
 
 ## W
+
 ### Workspaces
-https://github.com/biagolini/TerraformWorkspace
+Demonstrates the use of Terraform workspaces for managing multiple environments.
 
-## X 
+[https://github.com/biagolini/TerraformWorkspace](https://github.com/biagolini/TerraformWorkspace)
 
-## Y 
+## X
+
+## Y
 
 ## Z
+
