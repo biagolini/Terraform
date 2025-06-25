@@ -34,6 +34,12 @@ Demonstrates the use of built-in functions in Terraform.
 
 ## G
 
+### GitHub Actions Pipeline Demo
+
+A minimal and secure CI/CD pipeline for deploying AWS infrastructure using Terraform and GitHub Actions. It leverages OpenID Connect (OIDC) for authentication, avoiding the use of static AWS credentials.
+
+[https://github.com/biagolini/TerraformGitActionsDemo](https://github.com/biagolini/TerraformGitActionsDemo)
+
 ## H
 
 ## I
