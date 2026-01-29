@@ -8,18 +8,28 @@
 
 [EN]: This repository serves as an index for various Terraform-based projects and code examples. Each linked repository demonstrates different aspects of Terraform usage, including infrastructure provisioning, module structuring, lifecycle management, and built-in functions. The goal is to provide practical examples that can be used as references for learning and development. For more in-depth discussions and technical articles, visit my LinkedIn and Medium profiles.
 
+[PT]: Este repositório serve como um índice para vários projetos e exemplos de código baseados em Terraform. Cada repositório vinculado demonstra diferentes aspectos do uso do Terraform, incluindo provisionamento de infraestrutura, estruturação de módulos, gerenciamento de ciclo de vida e funções integradas. O objetivo é fornecer exemplos práticos que possam ser usados como referências para aprendizado e desenvolvimento. Para discussões mais aprofundadas e artigos técnicos, visite meus perfis no LinkedIn e Medium.
+
 ---
 
 ## A
 
+### Assume Role
+
+Demonstrates how to enforce project-specific IAM roles in Terraform deployments using role assumption and explicit deny policies for enhanced security.
+
+[https://github.com/biagolini/TerraformAssumeRole](https://github.com/biagolini/TerraformAssumeRole)
+
 ## B
 
 ### Basic Features
+
 Examples of fundamental Terraform features and syntax.
 
 [https://github.com/biagolini/TerraformBasic](https://github.com/biagolini/TerraformBasic)
 
 ### Built-in Functions
+
 Demonstrates the use of built-in functions in Terraform.
 
 [https://github.com/biagolini/TerraformBuiltinFunctions](https://github.com/biagolini/TerraformBuiltinFunctions)
@@ -40,6 +50,12 @@ A minimal and secure CI/CD pipeline for deploying AWS infrastructure using Terra
 
 [https://github.com/biagolini/TerraformGitActionsDemo](https://github.com/biagolini/TerraformGitActionsDemo)
 
+### GitHub Actions: Multi-Lambda Deployment with SSH Deploy Keys
+
+Demonstrates a secure and modular approach to deploying multiple AWS Lambda functions using Terraform and GitHub Actions, with source code pulled from private GitHub repositories via SSH deploy keys. Authentication to AWS is performed via OpenID Connect (OIDC).
+
+[https://github.com/biagolini/TerraformGitActionsDeployKeysDemo](https://github.com/biagolini/TerraformGitActionsDeployKeysDemo)
+
 ## H
 
 ## I
@@ -51,6 +67,7 @@ A minimal and secure CI/CD pipeline for deploying AWS infrastructure using Terra
 ## L
 
 ### Lifecycle
+
 Example of using the lifecycle block to manage resource behavior in Terraform.
 
 [https://github.com/biagolini/TerraformLifecycle](https://github.com/biagolini/TerraformLifecycle)
@@ -58,11 +75,13 @@ Example of using the lifecycle block to manage resource behavior in Terraform.
 ## M
 
 ### Modules
+
 Demonstrates the use of modules in Terraform to improve reusability and organization.
 
 [https://github.com/biagolini/TerraformModules](https://github.com/biagolini/TerraformModules)
 
 ### Maps: Test for Presence of Nulls in a Map
+
 Terraform script to check for the presence of null values in a map.
 
 [https://github.com/biagolini/TerraformMapNullPresenceTest](https://github.com/biagolini/TerraformMapNullPresenceTest)
@@ -70,6 +89,7 @@ Terraform script to check for the presence of null values in a map.
 ## N
 
 ### Null Resource
+
 Example of using null resources in Terraform for executing scripts and commands.
 
 [https://github.com/biagolini/TerraformNullResource](https://github.com/biagolini/TerraformNullResource)
@@ -79,6 +99,7 @@ Example of using null resources in Terraform for executing scripts and commands.
 ## P
 
 ### Provisioner
+
 Demonstrates the use of Terraform provisioners to execute local or remote scripts.
 
 [https://github.com/biagolini/TerraformProvisioner](https://github.com/biagolini/TerraformProvisioner)
@@ -86,6 +107,12 @@ Demonstrates the use of Terraform provisioners to execute local or remote script
 ## Q
 
 ## R
+
+### Resilience Hub Demo
+
+A simple serverless application (API Gateway REST + Lambda + DynamoDB) designed to demonstrate AWS Resilience Hub capabilities. Includes backend configuration for secure state management.
+
+[https://github.com/biagolini/TerraformResilienceHubDemo](https://github.com/biagolini/TerraformResilienceHubDemo)
 
 ## S
 
@@ -96,6 +123,7 @@ Demonstrates the use of Terraform provisioners to execute local or remote script
 ## V
 
 ### Validation (of Variable Inputs)
+
 Example of validating variable inputs in Terraform.
 
 [https://github.com/biagolini/TerraformValidation](https://github.com/biagolini/TerraformValidation)
@@ -103,6 +131,7 @@ Example of validating variable inputs in Terraform.
 ## W
 
 ### Workspaces
+
 Demonstrates the use of Terraform workspaces for managing multiple environments.
 
 [https://github.com/biagolini/TerraformWorkspace](https://github.com/biagolini/TerraformWorkspace)
