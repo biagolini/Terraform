@@ -80,6 +80,12 @@ Demonstrates the use of modules in Terraform to improve reusability and organiza
 
 [https://github.com/biagolini/TerraformModules](https://github.com/biagolini/TerraformModules)
 
+### Multi-Account Management
+
+Demonstrates how to manage multiple AWS accounts with a single Terraform project using provider aliases and IAM cross-account roles.
+
+[https://github.com/biagolini/TerraformMultiAccount](https://github.com/biagolini/TerraformMultiAccount)
+
 ### Maps: Test for Presence of Nulls in a Map
 
 Terraform script to check for the presence of null values in a map.
