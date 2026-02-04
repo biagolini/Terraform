@@ -102,6 +102,12 @@ Example of using null resources in Terraform for executing scripts and commands.
 
 ## O
 
+### OpenAPI Specification for API Gateway
+
+Demonstrates how to use OpenAPI specification files to define and deploy AWS API Gateway REST APIs with Terraform, including VPC Link integration, CORS configuration, and multi-environment support.
+
+[https://github.com/biagolini/TerraformApiGatewayOpenAPI](https://github.com/biagolini/TerraformApiGatewayOpenAPI)
+
 ## P
 
 ### Provisioner
