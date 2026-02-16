@@ -74,6 +74,12 @@ Example of using the lifecycle block to manage resource behavior in Terraform.
 
 ## M
 
+### mTLS Security for API Gateway
+
+Demonstrates mTLS security implementation and bypass vulnerability mitigation for AWS API Gateway REST APIs using custom domains, resource policies, and defense-in-depth strategies.
+
+[https://github.com/biagolini/TerraformApiGatewayMtlsSecurity](https://github.com/biagolini/TerraformApiGatewayMtlsSecurity)
+
 ### Modules
 
 Demonstrates the use of modules in Terraform to improve reusability and organization.
