@@ -36,6 +36,12 @@ Demonstrates the use of built-in functions in Terraform.
 
 ## C
 
+### Cognito MFA Protected Actions
+
+Demonstrates how to use AWS Cognito email MFA to enforce additional authentication only on sensitive operations (e.g., money transfers) while keeping other actions (e.g., balance check) unprotected.
+
+[https://github.com/biagolini/TerraformCognitoMfaProtectedActions](https://github.com/biagolini/TerraformCognitoMfaProtectedActions)
+
 ## D
 
 ## E
