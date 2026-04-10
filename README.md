@@ -42,6 +42,12 @@ Demonstrates how to use AWS Cognito email MFA to enforce additional authenticati
 
 [https://github.com/biagolini/TerraformCognitoMfaProtectedActions](https://github.com/biagolini/TerraformCognitoMfaProtectedActions)
 
+### Cognito Post Authentication Login Tracker
+
+Demonstrates a two-phase login tracking strategy using AWS Cognito: the frontend records a login intent via API Gateway (capturing IP and browser info), and the Cognito Post Authentication trigger confirms the event in DynamoDB with Cognito metadata.
+
+[https://github.com/biagolini/TerraformCognitoPostAuthLoginTracker](https://github.com/biagolini/TerraformCognitoPostAuthLoginTracker)
+
 ## D
 
 ## E
