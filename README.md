@@ -20,6 +20,12 @@ Demonstrates how to enforce project-specific IAM roles in Terraform deployments 
 
 [https://github.com/biagolini/TerraformAssumeRole](https://github.com/biagolini/TerraformAssumeRole)
 
+### API Gateway Public & Private Custom Domain
+
+Demonstrates how to deploy public and private API Gateways with MOCK integrations and custom domain names managed via Route 53, showcasing dual-endpoint DNS configuration with Terraform.
+
+[https://github.com/biagolini/TerraformApiGatewayPublicPrivateCustomDomain](https://github.com/biagolini/TerraformApiGatewayPublicPrivateCustomDomain)
+
 ## B
 
 ### Basic Features
