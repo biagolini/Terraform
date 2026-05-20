@@ -54,6 +54,12 @@ Demonstrates a two-phase login tracking strategy using AWS Cognito: the frontend
 
 [https://github.com/biagolini/TerraformCognitoPostAuthLoginTracker](https://github.com/biagolini/TerraformCognitoPostAuthLoginTracker)
 
+### CloudTrail Geo Monitor
+
+Monitors AWS API calls via CloudTrail and alerts when requests originate from outside allowed countries using MaxMind GeoLite2 IP geolocation, EventBridge, Lambda, and SNS.
+
+[https://github.com/biagolini/TerraformCloudTrailGeoMonitor](https://github.com/biagolini/TerraformCloudTrailGeoMonitor)
+
 ## D
 
 ## E
