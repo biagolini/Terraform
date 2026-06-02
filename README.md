@@ -26,6 +26,12 @@ Demonstrates how to deploy public and private API Gateways with MOCK integration
 
 [https://github.com/biagolini/TerraformApiGatewayPublicPrivateCustomDomain](https://github.com/biagolini/TerraformApiGatewayPublicPrivateCustomDomain)
 
+### AWS MCP Serverless (Kiro CLI)
+
+A serverless MCP (Model Context Protocol) server on AWS that exposes a DynamoDB car inventory through API Gateway HTTP API and Lambda, secured with IAM authentication (SigV4). Designed to be consumed by AI coding assistants like Kiro CLI via mcp-proxy-for-aws.
+
+[https://github.com/biagolini/TerraformAwsMcpServerlessKiroCli](https://github.com/biagolini/TerraformAwsMcpServerlessKiroCli)
+
 ## B
 
 ### Basic Features
