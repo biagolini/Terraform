@@ -170,7 +170,11 @@ A simple serverless application (API Gateway REST + Lambda + DynamoDB) designed 
 
 ## S
 
-## T
+### Spec Kit AWS POC
+
+A proof of concept evaluating GitHub's Spec Kit framework (Spec-Driven Development) by building CertPrep — a mobile-first certification study platform using AWS serverless architecture (API Gateway, Lambda, DynamoDB, Cognito, Bedrock, CloudFront, S3) with Angular frontend and Terraform IaC.
+
+[https://github.com/biagolini/TerraformSpecKitAwsPoc](https://github.com/biagolini/TerraformSpecKitAwsPoc)
 
 ## U
 
