@@ -66,6 +66,12 @@ Demonstrates a two-phase login tracking strategy using AWS Cognito: the frontend
 
 [https://github.com/biagolini/TerraformCognitoPostAuthLoginTracker](https://github.com/biagolini/TerraformCognitoPostAuthLoginTracker)
 
+### Cert Study App
+
+AI-powered study assistant for IT certification exams. Angular SPA hosted on S3/CloudFront with Cognito authentication, API Gateway + Lambda streaming via Amazon Bedrock (Nova models), and DynamoDB for cloud persistence. Includes pre-built study packs for all AWS certifications.
+
+[https://github.com/biagolini/TerraformCertStudyApp](https://github.com/biagolini/TerraformCertStudyApp)
+
 ### CloudTrail Geo Monitor
 
 Monitors AWS API calls via CloudTrail and alerts when requests originate from outside allowed countries using MaxMind GeoLite2 IP geolocation, EventBridge, Lambda, and SNS.
