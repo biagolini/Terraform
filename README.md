@@ -176,6 +176,12 @@ A simple serverless application (API Gateway REST + Lambda + DynamoDB) designed 
 
 ## S
 
+### Slack Logo Animator
+
+Serverless application that turns an uploaded logo into a custom animated GIF (fire or love effects) ready to use on Slack. Built with API Gateway, Lambda, and S3, using Terraform for infrastructure provisioning.
+
+[https://github.com/biagolini/TerraformSlackLogoAnimator](https://github.com/biagolini/TerraformSlackLogoAnimator)
+
 ### Spec Kit AWS POC
 
 A proof of concept evaluating GitHub's Spec Kit framework (Spec-Driven Development) by building CertPrep — a mobile-first certification study platform using AWS serverless architecture (API Gateway, Lambda, DynamoDB, Cognito, Bedrock, CloudFront, S3) with Angular frontend and Terraform IaC.
@@ -205,4 +211,3 @@ Demonstrates the use of Terraform workspaces for managing multiple environments.
 ## Y
 
 ## Z
-
