@@ -26,6 +26,14 @@ Demonstrates how to deploy public and private API Gateways with MOCK integration
 
 [https://github.com/biagolini/TerraformApiGatewayPublicPrivateCustomDomain](https://github.com/biagolini/TerraformApiGatewayPublicPrivateCustomDomain)
 
+### AWS Bedrock Agent Core
+
+#### Integrated Agent
+
+A single Amazon Bedrock AgentCore agent that combines every component of the AgentCore series into one deployment: a LangGraph agent on AgentCore Runtime wired to Gateway tools, a Managed Knowledge Base, Web Search, Code Interpreter, Browser, Memory, and Cognito-based Identity, with full CloudWatch observability. Provisioned end to end with Terraform (a single apply builds the image, seeds data, and configures per-resource log and trace delivery).
+
+[https://github.com/biagolini/TerraformAwsBedrockAgentCoreIntegratedAgent](https://github.com/biagolini/TerraformAwsBedrockAgentCoreIntegratedAgent)
+
 ### AWS MCP Error Handling
 
 Demonstrates how different MCP error response strategies (isError: true vs unhandled exceptions) affect AI agent behavior. Shows graceful error handling that enables LLM self-correction versus transport-level crashes that halt the agent.
